@@ -1,4 +1,4 @@
-module gitlab.com/amihan/common/libraries/go/responses.git
+module github.com/darrensapalo/responses.git
 
 go 1.14
 
